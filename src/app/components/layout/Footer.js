@@ -10,6 +10,7 @@ function Copyright() {
             <Link color="inherit" href="https://twitter.com/KStasii/" target="_blank">
                 KStasi
             </Link>
+            <br />
             {"Modified with ♥️ by "}
             <Link color="inherit" href="https://twitter.com/skllzarmy/" target="_blank">
                 skllzrmy.tez
