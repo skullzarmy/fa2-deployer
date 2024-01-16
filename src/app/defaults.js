@@ -6,7 +6,7 @@ export const NETWORKS = [
         nextNetworkIndex: 1,
         name: "Mainnet",
         type: "main",
-        rpcBaseURL: "https://mainnet-tezos.giganode.io",
+        rpcBaseURL: "https://rpc.tzbeta.net",
     },
     {
         id: NetworkType.GHOSTNET,
